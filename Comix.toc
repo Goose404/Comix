@@ -1,0 +1,23 @@
+## Interface: 11200
+## Title: Comix
+## Notes: bring some fun to your grind
+## Author: Coding after fork: Klausdieter
+## Version: 1.0.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: Comix_Max_Scale , ComixAniSpeed , ComixMaxCrits , Comix_AddOnEnabled , Comix_SoundEnabled , Comix_BSEnabled , Comix_DemoShoutEnabled , Comix_ZoneEnabled, Comix_DeathSoundEnabled ,  Comix_KillCountEnabled , Comix_CritPercent, Comix_FinishHimGap, Comix_SpecialsEnabled, Comix_BamEnabled, Comix_ImagesEnabled,Comix_NightfallEnabled,Comix_NightfallAutoTarget,Comix_FinishhimEnabled,Comix_CritGapEnabled,Comix_CritGap
+Sounds\ComixSounds.lua
+Images\Blades_set\ComixImages.lua
+Images\Fire_set\ComixFireImages.lua
+Images\Frost_set\ComixFrostImages.lua
+Images\Shadow_set\ComixShadowImages.lua
+Images\Arcane_set\ComixArcaneImages.lua
+Images\Nature_set\ComixNatureImages.lua
+Images\Holy_set\ComixHolyImages.lua
+Images\Death_set\ComixDeathImages.lua
+Images\Overkill_set\ComixOverkillImages.lua
+Specials\ComixSpecials.lua
+Comix.xml
+localization.lua
+Comix.lua
+comix_options.xml

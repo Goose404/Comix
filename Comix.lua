@@ -211,7 +211,7 @@ if (Comix_AddOnEnabled) then
   -- Extra life!
   if event == "RESURRECT_REQUEST" then
     if Comix_SpecialsEnabled then
-      Comix_DongSound(ComixRessSounds,math.random(1,ComixRessSoundsCt))
+      Comix_DongSound(ComixResSounds,math.random(1,ComixResSoundsCt))
     end
   end
 
